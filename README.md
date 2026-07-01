@@ -1,45 +1,45 @@
-<h1 align="center">Hi, I'm Karter Riggs 🌿</h1>
+<h1 align="center">🌲 &nbsp;Karter Riggs</h1>
 
 <p align="center">
-  <b>Artificial Intelligence student & builder</b> · I learn AI by building it.
+  <b>Artificial Intelligence Student · Aspiring AI Practitioner</b><br/>
+  <i>Building practical, community-minded AI — one working system at a time.</i>
 </p>
 
 <p align="center">
-  <a href="https://kartergit.github.io">🌐 Portfolio</a> ·
-  <a href="mailto:krigz.karter@gmail.com">✉️ Email</a> ·
-  📍 Rhode Island, USA
+  <a href="https://kartergit.github.io"><b>🌐 Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="mailto:krigz.karter@gmail.com">✉️ Email</a> &nbsp;·&nbsp;
+  📍 North Scituate, RI
 </p>
 
 ---
 
-### About me
+### 🌱 About
 
-- 🎓 B.S. in **Artificial Intelligence** at Rhode Island College (expected 2027), with minors in Math, CS & Data Science
-- 🔬 Sole **AI-focused intern** at the Institute for Cybersecurity & Emerging Technologies — I scope my own projects, mentor high school students, and build AI tooling for the lab
-- 🧠 Self-taught on **local large language models**, running them on an NVIDIA **DGX Spark**
-- 🤝 Motivated to use AI for **mission-driven, community-focused** work
+I'm an Artificial Intelligence undergraduate who learns by building. As the **sole AI-focused intern** at a university research institute, I scope and drive my own projects, mentor visiting high school students, and build AI tooling for the lab. Outside class, I teach myself by running **local large language models** and wiring AI into everyday workflows — and I'm especially motivated to put AI to work for **mission-driven, community-focused** goals.
 
-### What I'm working on
+### 🌿 What I'm working on
 
-- 🤖 An agentic **AI news pipeline** (OpenClaw + Ollama → Discord, on a cron job)
-- 📚 A lab **onboarding + documentation** system and an AI "copilot" concept
-- ⚙️ Getting deeper into local model infrastructure and automation
+- 🤖 **AI News Automation** — an agentic pipeline (OpenClaw + Ollama → Discord, on a cron job)
+- 🧠 **Local AI models** — hands-on study with an NVIDIA **DGX Spark**
+- 📚 **Lab tooling** — onboarding docs + an AI "copilot" concept for automating routine reports
 
-### Tools I use
+### 🛠️ Toolkit
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2f7d3f?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-2f7d3f?style=flat&logo=openjdk&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-2f7d3f?style=flat&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2f7d3f?style=flat&logo=git&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-2f7d3f?style=flat&logo=ollama&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-2f7d3f?style=flat&logo=tableau&logoColor=white)
 
-### Certifications
+**Daily AI tools:** Claude Code · Codex · Ollama · OpenClaw · Hermes
 
+### 🎓 Education & Certifications
+
+- **B.S. Artificial Intelligence** — Rhode Island College (expected 2027) · GPA 3.6 · Minors in Math, CS & Data Science
 - **AI Fluency: Framework & Foundations** — Anthropic
 - **Claude 101** — Anthropic
 
 ---
 
-<p align="center"><i>Open to opportunities, collaborations, and conversations about applied AI.</i></p>
+<p align="center"><i>Open to internships, collaborations, and mission-driven AI projects.</i></p>
