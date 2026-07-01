@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Artificial Intelligence Student · Aspiring AI Practitioner</b><br/>
-  <i>Building practical, community-minded AI — one working system at a time.</i>
+  <i>Building practical, community-minded AI.</i>
 </p>
 
 <p align="center">
