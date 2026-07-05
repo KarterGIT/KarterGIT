@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://kartergit.github.io"><b>🌐 Portfolio</b></a> &nbsp;·&nbsp;
-  <a href="mailto:krigz.karter@gmail.com">✉️ Email</a> &nbsp;·&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=krigz.karter@gmail.com" target="_blank">✉️ Email</a> &nbsp;·&nbsp;
   📍 North Scituate, RI
 </p>
 
